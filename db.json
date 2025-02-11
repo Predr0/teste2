@@ -1,55 +1,68 @@
 {
-  "dados": [
+  "cadastro": [
     {
       "id": 1,
-      "login": "admin01",
-      "senha": "123456",
-      "email": "admin@gmail.com"
-    },
-    {
-      "id": 2,
-      "login": "funcionario01",
-      "senha": "123456",
-      "email": "admin@gmail.com"
-    }
-  ],
-  "alunos": [
-    {
-      "id": 1,
-      "nome": "Pedroca",
-      "email": "aluno1@academia.com",
-      "modalidades": "Muay-Thai",
-      "plano": "Trimestral"
-    },
-    {
-      "id": 2,
-      "nome": "Cláudia",
-      "email": "aluno2@academia.com",
-      "modalidades": "Pilates",
-      "plano": "Mensal"
-    }
-  ],
-  "funcionarios": [
-    {
-      "id": 1,
-      "nome": "Funcionario 1",
-      "cargo": "Instrutor",
+      "nome": "Carlos Silva",
       "celular": "55 32 98501-2158"
     },
     {
       "id": 2,
-      "nome": "Funcionario 2",
-      "cargo": "Personal Trainer",
+      "nome": "Fernanda Lima",
       "celular": "55 32 98765-4321"
     }
   ],
-  "planos": [
-    { "id": 1, "nome": "Mensal", "preço": 120.99 },
-    { "id": 2, "nome": "Trimestral", "preço": 300.00 }
+  "pagamento": [
+    {
+      "id": 1,
+      "nome_aluno": "Pedroca",
+      "modalidade": "Muay-Thai",
+      "valor": 300.00
+    },
+    {
+      "id": 2,
+      "nome_aluno": "Cláudia",
+      "modalidade": "Pilates",
+      "valor": 120.99
+    }
   ],
-  "modalidades": [
-    { "id": 1, "nome": "Musculação" },
-    { "id": 2, "nome": "Pilates" },
-    { "id": 3, "nome": "Muay-Thai" }
+  "mensagens": [
+    {
+      "id": 1,
+      "aluno": "Pedroca",
+      "modalidade": "Muay-Thai",
+      "mensagem": "Gostaria de mais informações sobre os horários."
+    },
+    {
+      "id": 2,
+      "aluno": "Cláudia",
+      "modalidade": "Pilates",
+      "mensagem": "Quando será a próxima aula experimental?"
+    }
+  ],
+  "acompanhamento": [
+    {
+      "id": 1,
+      "aluno": "Pedroca",
+      "modalidade": "Muay-Thai",
+      "visualizar": "https://academia.com/acompanhamento/1"
+    },
+    {
+      "id": 2,
+      "aluno": "Cláudia",
+      "modalidade": "Pilates",
+      "visualizar": "https://academia.com/acompanhamento/2"
+    }
+  ],
+  "eventos": [
+    {
+      "id": 1,
+      "nome": "Treino Especial de Muay-Thai",
+      "data": "2025-03-10"
+    },
+    {
+      "id": 2,
+      "nome": "Aula Aberta de Pilates",
+      "data": "2025-04-05"
+    }
   ]
 }
