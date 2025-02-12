@@ -44,13 +44,13 @@
       "id": 1,
       "aluno": "Pedroca",
       "modalidade": "Muay-Thai",
-      "visualizar": "https://academia.com/acompanhamento/1"
+      "visualizar": "https://www.youtube.com/watch?v=sTde3FiDllI"
     },
     {
       "id": 2,
       "aluno": "Cláudia",
       "modalidade": "Pilates",
-      "visualizar": "https://academia.com/acompanhamento/2"
+      "visualizar": "https://www.youtube.com/watch?v=sTde3FiDllI"
     }
   ],
   "eventos": [
