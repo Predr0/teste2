@@ -44,13 +44,13 @@
       "id": 1,
       "aluno": "Pedroca",
       "modalidade": "Muay-Thai",
-      "visualizar": "https://www.youtube.com/watch?v=sTde3FiDllI"
+      "visualizar": "Aumentar intensidade e diminuir o intervalo"
     },
     {
       "id": 2,
       "aluno": "Cláudia",
       "modalidade": "Pilates",
-      "visualizar": "https://www.youtube.com/watch?v=sTde3FiDllI"
+      "visualizar": "Déficit calórico, não aguentará a rotina de treino, refazer rotina"
     }
   ],
   "eventos": [
