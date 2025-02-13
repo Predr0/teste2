@@ -9,6 +9,36 @@
       "id": 2,
       "nome": "Fernanda Lima",
       "celular": "55 32 98765-4321"
+    },
+    {
+      "id": 3,
+      "nome": "João Pereira",
+      "celular": "55 32 98888-3344"
+    },
+    {
+      "id": 4,
+      "nome": "Ana Souza",
+      "celular": "55 32 99777-5566"
+    },
+    {
+      "id": 5,
+      "nome": "Ricardo Oliveira",
+      "celular": "55 32 96666-7788"
+    },
+    {
+      "id": 6,
+      "nome": "Juliana Santos",
+      "celular": "55 32 95555-8899"
+    },
+    {
+      "id": 7,
+      "nome": "Lúcia Costa",
+      "celular": "55 32 94444-9900"
+    },
+    {
+      "id": 8,
+      "nome": "Felipe Rocha",
+      "celular": "55 32 93333-1122"
     }
   ],
   "pagamento": [
@@ -23,6 +53,42 @@
       "nome_aluno": "Cláudia",
       "modalidade": "Pilates",
       "valor": 120.99
+    },
+    {
+      "id": 3,
+      "nome_aluno": "João",
+      "modalidade": "Jiu-Jitsu",
+      "valor": 250.00
+    },
+    {
+      "id": 4,
+      "nome_aluno": "Ana",
+      "modalidade": "Karatê",
+      "valor": 150.50
+    },
+    {
+      "id": 5,
+      "nome_aluno": "Ricardo",
+      "modalidade": "Boxe",
+      "valor": 180.00
+    },
+    {
+      "id": 6,
+      "nome_aluno": "Juliana",
+      "modalidade": "Musculação",
+      "valor": 200.00
+    },
+    {
+      "id": 7,
+      "nome_aluno": "Lúcia",
+      "modalidade": "Pilates",
+      "valor": 130.75
+    },
+    {
+      "id": 8,
+      "nome_aluno": "Felipe",
+      "modalidade": "Muay-Thai",
+      "valor": 320.00
     }
   ],
   "mensagens": [
@@ -37,6 +103,42 @@
       "aluno": "Cláudia",
       "modalidade": "Pilates",
       "mensagem": "Quando será a próxima aula experimental?"
+    },
+    {
+      "id": 3,
+      "aluno": "João",
+      "modalidade": "Jiu-Jitsu",
+      "mensagem": "Posso fazer um teste antes de me matricular?"
+    },
+    {
+      "id": 4,
+      "aluno": "Ana",
+      "modalidade": "Karatê",
+      "mensagem": "Gostaria de saber mais sobre as faixas e evolução."
+    },
+    {
+      "id": 5,
+      "aluno": "Ricardo",
+      "modalidade": "Boxe",
+      "mensagem": "Quais são os requisitos para a aula avançada?"
+    },
+    {
+      "id": 6,
+      "aluno": "Juliana",
+      "modalidade": "Musculação",
+      "mensagem": "Quais são os melhores treinos para ganho de massa?"
+    },
+    {
+      "id": 7,
+      "aluno": "Lúcia",
+      "modalidade": "Pilates",
+      "mensagem": "O que devo trazer para as aulas?"
+    },
+    {
+      "id": 8,
+      "aluno": "Felipe",
+      "modalidade": "Muay-Thai",
+      "mensagem": "Quais são os horários disponíveis para a aula intensiva?"
     }
   ],
   "acompanhamento": [
@@ -51,6 +153,42 @@
       "aluno": "Cláudia",
       "modalidade": "Pilates",
       "visualizar": "Déficit calórico, não aguentará a rotina de treino, refazer rotina"
+    },
+    {
+      "id": 3,
+      "aluno": "João",
+      "modalidade": "Jiu-Jitsu",
+      "visualizar": "Iniciar com treinos leves e aumentar progressivamente"
+    },
+    {
+      "id": 4,
+      "aluno": "Ana",
+      "modalidade": "Karatê",
+      "visualizar": "Focar na técnica de golpes, aumentar a resistência"
+    },
+    {
+      "id": 5,
+      "aluno": "Ricardo",
+      "modalidade": "Boxe",
+      "visualizar": "Melhorar a agilidade, incluir mais treinos de cardio"
+    },
+    {
+      "id": 6,
+      "aluno": "Juliana",
+      "modalidade": "Musculação",
+      "visualizar": "Intensificar treinos de perna e braços"
+    },
+    {
+      "id": 7,
+      "aluno": "Lúcia",
+      "modalidade": "Pilates",
+      "visualizar": "Fortalecer o core e aumentar a flexibilidade"
+    },
+    {
+      "id": 8,
+      "aluno": "Felipe",
+      "modalidade": "Muay-Thai",
+      "visualizar": "Aprimorar a técnica de socos e chutes"
     }
   ],
   "eventos": [
@@ -63,6 +201,36 @@
       "id": 2,
       "nome": "Aula Aberta de Pilates",
       "data": "2025-04-05"
+    },
+    {
+      "id": 3,
+      "nome": "Workshop de Jiu-Jitsu",
+      "data": "2025-03-15"
+    },
+    {
+      "id": 4,
+      "nome": "Campeonato de Karatê",
+      "data": "2025-04-10"
+    },
+    {
+      "id": 5,
+      "nome": "Noite de Boxe",
+      "data": "2025-04-20"
+    },
+    {
+      "id": 6,
+      "nome": "Encontro de Musculação",
+      "data": "2025-05-01"
+    },
+    {
+      "id": 7,
+      "nome": "Seminário de Fitness",
+      "data": "2025-05-10"
+    },
+    {
+      "id": 8,
+      "nome": "Evento de Yoga e Pilates",
+      "data": "2025-05-15"
     }
   ]
 }
